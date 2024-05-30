@@ -18,9 +18,9 @@ GraphQL allows clients to request exactly the data they need, reducing over-fetc
 
 ## Screenshots
 
-![alt text]()
+![alt text](https://github.com/AnthonyBonanno/Book-Search-Engine-MERN/blob/main/screenshots/image1.PNG)
 
-![alt text]()
+![alt text](https://github.com/AnthonyBonanno/Book-Search-Engine-MERN/blob/main/screenshots/image2.PNG)
 
 
 ## Link to Deployed App
